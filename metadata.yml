@@ -25,5 +25,5 @@ annotations:
   io.kubewarden.policy.url: https://github.com/kubewarden/psa-label-enforcer
   io.kubewarden.policy.source: https://github.com/kubwarden/psa-label-enforcer
   io.kubewarden.policy.license: Apache-2.0
-  io.kubewarden.policy.category: Namespace
+  io.kubewarden.policy.category: Pod Security
   io.kubewarden.policy.severity: medium
